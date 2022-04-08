@@ -2,9 +2,10 @@
 
 ## Yuchang Jiang
 
-* Currently Master student @ETH Zurich
+* Currently PhD student in data science @ICS UZH
+* Previously MSc @ETHz, BSc @HKPolyU
 * Interested in computer vision, machine learning
-* Also enjoy front-end and App development
+* Also enjoy front-end and mobile App development
 * 📫 How to reach me: [email](yujiang@ethz.ch) 
 
 <a href="#">
