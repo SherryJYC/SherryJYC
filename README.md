@@ -2,17 +2,20 @@
 
 ## Yuchang Jiang
 
-* Currently PhD student in data science @ICS UZH
+* Currently PhD student in data science @ICS UZH & EcoVsion, ETHz
 * Previously MSc @ETHz, BSc @HKPolyU
-* Interested in computer vision, machine learning
+* Interested in computer vision, machine learning, remote sensing
 * Also enjoy front-end and mobile App development
-* 📫 How to reach me: [email](yujiang@ethz.ch) 
+* 📫 How to reach me: 
 
-<a href="#">
+[[email](yuchang.jiang@uzh.ch)] [[personal website](https://sherryjyc.github.io/)]
+[[linkedin](https://www.linkedin.com/in/yuchang-jiang-451805141/)]
+
+<!--<a href="#">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SherryJYC&count_private=true&show_icons=true&hide_border=true&icon_color=695858&title_color=a8a0af">
 </a>
 
-<!--
+
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherryJYC&layout=compact&hide_border=true&icon_color=695858&title_color=a8a0af"">
 </a>
