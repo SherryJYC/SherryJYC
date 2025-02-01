@@ -2,7 +2,7 @@
 
 ## Yuchang Jiang
 
-* Currently PhD student in data science @ICS UZH & EcoVsion, ETHz
+* Currently PhD student in data science EcoVsion, UZH
 * Previously MSc @ETHz, BSc @HKPolyU
 * Interested in computer vision, machine learning, remote sensing
 * Also enjoy front-end and mobile App development
