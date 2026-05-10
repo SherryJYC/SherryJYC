@@ -2,13 +2,13 @@
 
 ## Yuchang Jiang
 
-* Currently PhD student in data science EcoVsion, UZH
-* Previously MSc @ETHz, BSc @HKPolyU
+* Currently PostDoc @WSL
+* Previously PhD @UZH, MSc @ETHz, BSc @HKPolyU
 * Interested in computer vision, machine learning, remote sensing
 * Also enjoy front-end and mobile App development
 * 📫 How to reach me: 
 
-[[email](yuchang.jiang@uzh.ch)] [[personal website](https://sherryjyc.github.io/)]
+[[email](yuchang.jiang@wsl.ch)] [[personal website](https://sherryjyc.github.io/)]
 [[linkedin](https://www.linkedin.com/in/yuchang-jiang-451805141/)]
 
 <!--<a href="#">
